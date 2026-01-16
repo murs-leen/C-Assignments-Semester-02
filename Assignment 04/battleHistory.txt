@@ -1,0 +1,9 @@
+- - - - - BATTLE HISTORY - - - - -
+ -> Arena: Icy Hills
+ -> Battle: Superman vs Batman
+ -> Superman attacked Batman
+ -> Batman used special ability on Superman
+ -> Superman attacked Batman
+ -> Batman attacked Superman
+ -> Superman used special ability on Batman
+ -> Result: Superman wins!
